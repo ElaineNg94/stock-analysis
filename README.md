@@ -8,14 +8,14 @@ The stock performance between the 2017 and 2018 stocks shows the 2017 stocks per
 <img width="215" alt="All_Stocks_VBA_Challenge_2017" src="https://user-images.githubusercontent.com/79742633/112744182-98e27400-8f52-11eb-8585-39c4ecb9705e.png">
 <img width="216" alt="All_Stocks_VBA_Challenge_2018" src="https://user-images.githubusercontent.com/79742633/112744191-aa2b8080-8f52-11eb-876a-4b058b306b0b.png">
 
-**Original Script**
+**Original Script Time**
 
 The execution times of the original script was longer than the refactored script. The original script time took 0.84375 seconds for the 2017 stock analysis and the original script for the 2018 stock analysis took 0.796875 seconds to finish running. 
 
 <img width="235" alt="Original Code Time 2017" src="https://user-images.githubusercontent.com/79742633/112744195-be6f7d80-8f52-11eb-965b-01a2eccf219b.png">
 <img width="236" alt="Original Code Time 2018" src="https://user-images.githubusercontent.com/79742633/112744210-d0512080-8f52-11eb-9cff-9f25d8430a66.png">
 
-**Refactored Script**
+**Refactored Script Time**
 
 My refactored script took 0.1640625 seconds each for both the 2017 and 2018 refactored analysis to show the results, which is still faster than the original script.
 
